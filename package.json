@@ -1,0 +1,32 @@
+{
+  "name": "deved-restapi",
+  "version": "1.0.0",
+  "description": "Rest-API with Express.js and MongoDB - Tutorial from Dev Ed Youtube Channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevwas/rest-api.git"
+  },
+  "keywords": [
+    "Rest-API",
+    "Express",
+    "Node",
+    "MongoDB",
+    "NoSQL",
+    "Javascript"
+  ],
+  "author": "Kevin Ariza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevwas/rest-api/issues"
+  },
+  "homepage": "https://github.com/Kevwas/rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
